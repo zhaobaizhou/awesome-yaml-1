@@ -302,6 +302,7 @@ YAML is a configuration format similar to JSON.
 * [Tools and services (@datatxt)](https://github.com/datatxt/awseome-yaml#tools--services)
 * [YAML parser (appspot.com)](http://yaml-online-parser.appspot.com/)
 * [YAML to golang](https://mengzhuo.github.io/yaml-to-go/)
+* [YAMLToolbox](https://yamltoolbox.com) — Free, browser-based YAML converters and validators. 100% client-side: no upload, no sign-up, private. Includes a front matter checker for Obsidian, Hugo, Jekyll and Astro.
 
 ## Transformation
 <!--- id="dmid://uu086bintt1634232x017xlink" --->
